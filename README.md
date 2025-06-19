@@ -68,6 +68,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 For questions or suggestions, please contact [SudoAnirudh](https://github.com/SudoAnirudh).
 
----
 
-Let me know if you want to include project-specific details, dataset sources, or additional sections!
