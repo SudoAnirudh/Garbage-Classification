@@ -1,6 +1,3 @@
-Here’s a sample README.md you can use for your Garbage-Classification repository. This draft includes sections commonly found in open-source projects and is tailored for a Jupyter Notebook-based project. You can further customize the content as needed.
-
----
 
 # Garbage Classification
 
